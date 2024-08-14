@@ -33,7 +33,7 @@ I enjoy taking on side projects and sharing with people what I know.
 
 ---
 
-### 💯 Highlighted Projects
+### <img src="https://camo.githubusercontent.com/5c9c0b6d06590b1da5c4bab97cd9df4a5cd5cf37a4c4aa66d3013a8255cb8792/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834373034382f343232332f626c6f622d3130302e6769663f31353331383437303438" alt="Cool GIF" width="35" height="35"> Highlighted Projects
 
 | Project Name | Description |
 | --- | --- |
