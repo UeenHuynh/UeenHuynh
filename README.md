@@ -43,4 +43,4 @@ I enjoy taking on side projects and sharing with people what I know.
 ---
 
 ### 📊 Github Stats
-!Huynh Khoi Minh Uyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ueenhuynh&show_icons=true&count_private=true&theme=default)
+![Huynh Khoi Minh Uyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ueenhuynh&show_icons=true&count_private=true&theme=default)
