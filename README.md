@@ -37,18 +37,10 @@ I enjoy taking on side projects and sharing with people what I know.
 
 | Project Name | Description |
 | --- | --- |
-| [**AI-City-2024-Track2**](https://github.com/link_to_repo) | AICITY2024 Track 2 - Code from AIO_ISC Team ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) |
-| [**VN_Multi_User_Video_Search**](https://github.com/link_to_repo) | BED-AIO team code for AIChallenge2023 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) |
-| [**ZaloAI2023**](https://github.com/link_to_repo) | Code for attending ZaloAI2023 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) |
-| [**COVID-QU-Ex-Segmentation**](https://github.com/link_to_repo) | No description provided ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) |
+| [**MGMA_2024**](https://github.com/link_to_repo) | [Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) |
+| [**AppliedBioinformatics2023**](https://github.com/link_to_repo) | [Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) |
 
 ---
 
 ### 📊 Github Stats
-![Trinh Xuan Khai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&count_private=true&theme=default)
-
-- **Total Stars Earned:** 7
-- **Total Commits (2024):** 410
-- **Total PRs:** 1
-- **Total Issues:** 6
-- **Contributed to (last year):** 8
+!Huynh Khoi Minh Uyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ueenhuynh&show_icons=true&count_private=true&theme=default)
