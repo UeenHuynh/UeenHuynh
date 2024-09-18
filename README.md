@@ -7,7 +7,7 @@ I enjoy taking on side projects and sharing with people what I know.
 
 ---
 
-### <img src="https://camo.githubusercontent.com/aca2ca9d6fdc4c36d2818405a6f80e6ec8b2745cf7b19d388438af650384895e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538343732363337352f383237322f626c6f622d636f6f6c2e6769663f31353834373236333735" alt="Cool GIF" width="35" height="35">  What I'm up to
+### <img src="https://i.pinimg.com/originals/5d/00/d0/5d00d08c95ea9fbfb0a3e810001fb53d.gif" alt="Cool GIF" width="35" height="35">  What I'm up to
 - 🤖 I'm currently working on generative AI specializing in text and image generation.
 - 📧 How to reach me: [uyenhuynhkhoiminh.1.1@gmail.com](mailto:uyenhuynhkhoiminh.1.1@gmail.com)
 
