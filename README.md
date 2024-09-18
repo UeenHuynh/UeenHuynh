@@ -1,4 +1,4 @@
-# Hi, I am Uyen <img src="<iframe src="<iframe src="https://giphy.com/embed/Vhd10uVrDjMhAG7IyV" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-hi-waving-Vhd10uVrDjMhAG7IyV">via GIPHY</a></p>" width="35" height="35"> 
+# Hi, I am Uyen <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR5ZTZyY3h3YjgxNTVpaWp3YWtnbWdjcjQ1amptdnhtNDRzejY0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vhd10uVrDjMhAG7IyV/giphy.webp" width="35" height="35"> 
 
 🎉 **Welcome to my Github profile!**
 
